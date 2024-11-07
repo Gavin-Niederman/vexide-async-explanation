@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "cpu",
+      "targetTime": 11.768282259498001
+    },
+    {
+      "name": "onefunc",
+      "targetTime": 16.79310867936298
+    },
+    {
+      "name": "sequential",
+      "targetTime": 25.573166772906195
+    },
+    {
+      "name": "one async",
+      "targetTime": 41.04290408348701
+    },
+    {
+      "name": "two async",
+      "targetTime": 45.346290641212725
+    },
+    {
+      "name": "concurrent",
+      "targetTime": 50.08620907892154
+    },
+    {
+      "name": "end",
+      "targetTime": 63.18946599267186
+    }
+  ],
+  "seed": 914720420
+}

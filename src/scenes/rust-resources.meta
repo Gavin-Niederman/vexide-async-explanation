@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "book",
+      "targetTime": 0.339140558123609
+    },
+    {
+      "name": "example",
+      "targetTime": 1.41221023797295
+    },
+    {
+      "name": "rustlings",
+      "targetTime": 2.44874507789762
+    },
+    {
+      "name": "favorite",
+      "targetTime": 3.1971443246019517
+    },
+    {
+      "name": "end",
+      "targetTime": 4.476579352850539
+    }
+  ],
+  "seed": 2189131132
+}
